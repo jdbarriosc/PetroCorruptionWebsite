@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="23px" viewBox="0 0 35 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Landing-Investor" transform="translate(-703.000000, -713.000000)" stroke="#FFFFFF" stroke-width="8">
+            <g id="Hero" transform="translate(0.000000, 80.000000)">
+                <polyline id="Path" points="709 639 720.5 650 732 639"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

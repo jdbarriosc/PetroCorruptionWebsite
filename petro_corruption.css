@@ -141,7 +141,7 @@ ul li a:hover{
 		display: none;
 	}
 	.pdfMobile{
-		display: none;
+		display: unset;
 	}
 
 

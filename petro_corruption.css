@@ -94,6 +94,12 @@ ul li a:hover{
     animation: arrow-oscillate-up-down 1s ease-in-out infinite;
 }
 
+.pdfWeb{
+	display: initial;
+}
+.pdfMobile{
+	display: none;
+}
 
 @keyframes arrow-oscillate-up-down {
     0% {
@@ -138,6 +144,12 @@ ul li a:hover{
 		transform: translate(-50%,-50%)
 	}
 
+	.pdfWeb{
+		display: none;
+	}
+	.pdfMobile{
+		display: initial;
+	}
 
 	#main {
 	    display: grid;

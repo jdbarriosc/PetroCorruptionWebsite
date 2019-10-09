@@ -94,12 +94,6 @@ ul li a:hover{
     animation: arrow-oscillate-up-down 1s ease-in-out infinite;
 }
 
-.pdfWeb{
-	display: unset;
-}
-.pdfMobile{
-	display: none;
-}
 
 @keyframes arrow-oscillate-up-down {
     0% {
@@ -136,13 +130,6 @@ ul li a:hover{
 		background-color: #fff;
 		color: #000;
 	} 
-
-	.pdfWeb{
-		display: none;
-	}
-	.pdfMobile{
-		display: contents;
-	}
 
 
 	#main {
